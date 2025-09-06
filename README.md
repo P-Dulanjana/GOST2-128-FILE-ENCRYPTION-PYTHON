@@ -1,2 +1,3 @@
 # GOST2-128-FILE-ENCRYPTION-PYTHON
-File encryption with GOST2-128 in ECB, CBC and GCM mode (Python language)
+
+# File encryption with GOST2-128 in CBC and GCM mode (Python language)

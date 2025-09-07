@@ -1,3 +1,4 @@
+# File encryption with GOST2-128 in CBC mode.
 # python gost2-128-cbc.py
 # or
 # python3 gost2-128-cbc.py
